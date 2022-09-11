@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Dewmini Vidanapathirana</h1>
 <h3 align="center">A passionate QA Engineer, Developer from Srilanka</h3>
-<img  align="right" alt="coding" Width="400" src"https://tse2.mm.bing.net/th?id=OIP._afAGNuaCf8O0jSVfpsluQHaFj&pid=Api&P=0">
+
 
 - 🌱 I’m currently learning **Selenium,Firebug Testing tools and react,Angular languages**
 
