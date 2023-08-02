@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dewmini Vidanapathirana</h1>
-<h3 align="center">A passionate Web Developer from Srilanka</h3>
+<h3 align="center">A passionate Software Engineer  from Srilanka</h3>
 
 
 - 🌱 I’m currently learning **Selenium,Firebug Testing tools and react,Angular languages**
