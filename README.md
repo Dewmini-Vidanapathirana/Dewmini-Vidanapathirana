@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Selenium,Firebug Testing tools and react,Angular languages**
 
-- 👨‍💻 All of my projects are available at [[https://dewmini-vidanapathirana.github.io/Dewmini123/](https://6698cc210599fb67e8ca6c4e--frolicking-melba-bc2851.netlify.app/)]([https://dewmini-vidanapathirana.github.io/Dewmini123/](https://6698cc210599fb67e8ca6c4e--frolicking-melba-bc2851.netlify.app/))
+- 👨‍💻 All of my projects are available at [(https://6698cc210599fb67e8ca6c4e--frolicking-melba-bc2851.netlify.app/)]
 
 - 📫 How to reach me **dewminivihangika9@gmail.com**
 
